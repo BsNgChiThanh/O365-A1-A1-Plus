@@ -98,7 +98,7 @@ A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |
 
 [Tham khảo thêm về active office](https://github.com/BsNgChiThanh/Kich-hoat-Office)
 
-**Facebook của tôi:** https://bit.ly/3NYsLdt
+**[Facebook của tôi](https://www.facebook.com/BsNgChiThanh?mibextid=kFxxJD)**  
 
 ## Một số tài khoản A1 Plus, A3, A5, E3, E5 đã có sẵn ##
 
