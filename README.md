@@ -94,7 +94,7 @@ A1 | http://www.yopmail.com | vikingdublin.com | 5Tb |
 
 [Tham khảo thêm về active windows](https://github.com/BsNgChiThanh/Active-Windows-cmd)
 
-**Tool Active Windows và Office:** Link Onedrive: https://bit.ly/3LPgq9M Password giải nén: HQCNTH
+**Tool Active Windows và Office:** https://github.com/BsNgChiThanh/MAS-TOOL
 
 [Tham khảo thêm về active office](https://github.com/BsNgChiThanh/Kich-hoat-Office)
 
