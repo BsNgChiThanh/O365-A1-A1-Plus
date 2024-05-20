@@ -2,7 +2,7 @@ Tác giả: Nguyễn Chí Thành
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231746693-705972d0-6d3b-41e2-bb80-9a80f9b1018a.jpg)
 
-# Tạo Office 365 A1, Office 365 A1 Plus, Office 365 E5 tự động gia hạn mỗi 3 tháng.
+# Tạo Office ~~365 A1, Office 365 A1 Plus,~~ Office 365 E5 tự động gia hạn mỗi 3 tháng.
 
 - Các trang tạo A1 Plus và A3, A5... ngày nay đã bị khóa, một số trang chuyển sang kinh doanh thu lợi nhuận!
 - **A1 Plus ngừng hoạt động từ 01/08/2024**
