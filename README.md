@@ -5,6 +5,7 @@ Tác giả: Nguyễn Chí Thành
 # Tạo Office 365 A1, Office 365 A1 Plus, Office 365 E5 tự động gia hạn mỗi 3 tháng.
 
 - Các trang tạo A1 Plus và A3, A5... ngày nay đã bị khóa, một số trang chuyển sang kinh doanh thu lợi nhuận!
+- **A1 Plus ngừng hoạt động từ 01/08/2024**
 - Bây giờ chỉ còn trang chính thống của Microsoft, tạo Admib Office 365 E5 Auto Renew miễn phí hoàn toàn, tự động gia hạn mỗi 3 tháng, sau một thời gian không cho Việt Nam đăng ký thì nay lại mở cửa cho trở lại, mỗi số điện thoại chỉ đăng ký được một Admin duy nhất, mỗi Admin được tạo 25 users, kích hoạt được Office 365 trên máy tính.
 
 # Cách tạo Admin Office 365 E5 Auto Renew [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop) #
