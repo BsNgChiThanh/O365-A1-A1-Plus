@@ -23,8 +23,10 @@ Tác giả: Nguyễn Chí Thành
 
 ## Cách download bộ Office 365 như ý ## 
 
-- Sau khi đăng nhập Office A1+, các bạn dán link này vào và nhấn enter: https://portal.office.com/account/?ref=MeControl ta sẽ thấy:
+- Sau khi đăng nhập Office A1+, các bạn dán link này vào và nhấn enter: **https://portal.office.com/account/?ref=MeControl** ta sẽ thấy:
+  
 - ![image](https://github.com/BsNgChiThanh/Office-365-A1-A1-Plus/assets/82578024/276cfec8-3c9b-4f02-9003-59751fdbfa81)
+  
 - Xem video:
 
 https://user-images.githubusercontent.com/82578024/211181338-e18e0bce-6327-4492-83d9-e79062983e13.mp4
